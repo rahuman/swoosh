@@ -1,4 +1,4 @@
-package com.itguys4life.swoosh
+package com.itguys4life.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

@@ -1,8 +1,8 @@
-package com.itguys4life.swoosh
+package com.itguys4life.swoosh.Controller
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import com.itguys4life.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class MainActivity : BaseActivity() {
